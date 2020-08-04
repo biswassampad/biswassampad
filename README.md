@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 -->
 
 
+🔭
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}
