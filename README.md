@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Background](bg.jpg)
 🔭
 {
   "schemaVersion": 1,
